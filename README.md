@@ -13,7 +13,7 @@ A main menu where players can select game modes and set score limits.
 
 # UML
 The Pong game model includes the following key components:
-Concrete Classes: Paddle, Ball, SoundManager, and GameManager.
+Concrete Classes: Paddle, Ball, and GameManager.
 Abstract Classes: GameElements provide shared properties and behaviors for game objects.
 Exception Handling: A GameException class to handle errors like invalid score limits or missing resources.
 ![Pong UML Diagram](https://github.com/user-attachments/assets/25a0f37f-004a-4807-987b-1b8e046eb598)
